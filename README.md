@@ -1,6 +1,6 @@
 # DependencyInjection
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
+This project was creating the dependency between component and service
 
 ## Development server
 
